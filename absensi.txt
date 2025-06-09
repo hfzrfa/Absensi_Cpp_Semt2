@@ -1,0 +1,84 @@
+1
+Hafiz
+Hadir
+10
+2
+Iqbal
+Tidak Hadir
+12
+3
+Fariz
+Hadir
+13
+4
+Aldi
+Hadir
+14
+5
+Budi
+Tidak Hadir
+15
+6
+Cahyo
+Hadir
+16
+7
+Dito
+Hadir
+17
+8
+Erik
+Tidak Hadir
+18
+9
+Faisal
+Hadir
+19
+10
+Galih
+Tidak Hadir
+20
+11
+Hendra
+Hadir
+21
+12
+Iwan
+Tidak Hadir
+22
+13
+Joko
+Hadir
+23
+14
+Kurniawan
+Tidak Hadir
+24
+15
+Luthfi
+Hadir
+25
+16
+Mukti
+Hadir
+26
+17
+Nugroho
+Tidak Hadir
+27
+18
+Omar
+Hadir
+28
+19
+Putra
+Tidak Hadir
+29
+20
+Rizky
+Hadir
+30
+21
+bujang
+hadir
+1
